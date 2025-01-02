@@ -3,7 +3,7 @@
 <img src="/SiteFiles/Peter_Griffin.png" align="left" width=150>&nbsp; Safety Inspector<br/>
 &nbsp; Pawtucket Brewery
 &nbsp; &nbsp; email: peter.griffin@spooner.com
-&nbsp; &nbsp; [Resume]("https://agmath.github.io/PagesBasic/peter_resume.html")
+&nbsp; &nbsp; [Resume]("https://agmath.github.io/PagesBasic/SiteFiles/Resume/peter_resume.html")
 
 ### Welcome
 
