@@ -16,4 +16,4 @@ Welcome to my page – a man of many talents, few inhibitions, and a boundless s
 
 ### Sample Work Products
 
-I'm available for safety-related consulting work in the manufacturing and production fields. Check out [one of my recent safety reports](https://agmath.github.io/PagesBasic/SiteFiles/Resume/SampleSafetyReport.html) from an incident at Pawtucket Brewery as an example of what I can do for you!
+I'm available for safety-related consulting work in the manufacturing and production fields. Check out [one of my recent safety reports](https://agmath.github.io/PagesBasic/SiteFiles/SampleSafetyReport.html) from an incident at Pawtucket Brewery as an example of what I can do for you!
