@@ -1,4 +1,4 @@
-## Peter G.
+## Vinny Chloros
 
 <img src="SiteFiles/Peter_Griffin.png" align="left" width=150>&nbsp; &nbsp; Biology Student<br/>
 &nbsp; &nbsp; Southern New Hampshire University <br/>
