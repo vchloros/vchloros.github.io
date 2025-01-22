@@ -3,7 +3,7 @@
 <img src="SiteFiles/Peter_Griffin.png" align="left" width=150>&nbsp; &nbsp; Biology Student<br/>
 &nbsp; &nbsp; SNHU <br/>
 &nbsp; &nbsp; email: vinny.chloros [at] snhu [dot] edu<br/>
-&nbsp; &nbsp; [Resume](https://agmath.github.io/PagesBasic/SiteFiles/Resume/peter_resume.html)
+&nbsp; &nbsp; [Resume](https://vchloros.github.io/SiteFiles/Resume/VChloros_ResumeV9Lab.pdf)
 
 <br/>
 <br/>
