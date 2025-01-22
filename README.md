@@ -1,1 +1,1 @@
-A basic template for students to create their own GitHub pages sites.
+Fork of template from agmath.github.io
