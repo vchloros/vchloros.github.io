@@ -20,6 +20,8 @@ As a BS Biology student in my senior year, I'm gaining new experience in using R
 
 ### Friends with Phylogeny: Approachable Software and Methodologies for Undergraduates Making Phylogenetic Trees
 
+Bioinformatics has been and continues to cement itself as key pillar of biology as a whole. Despite that fact, many undergrads aren't exposed to fundamental skills and concepts that will become vital, both in furthering education and in future careers. As someone who is primarily interested in evolutionary biology, I found that building phylogenetic trees was a good early introduction into incorporating knowledge of statistics and computer science into my studies. 
+
 <br/>
 
 ## Past Projects
