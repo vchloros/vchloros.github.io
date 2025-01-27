@@ -13,7 +13,7 @@
 <br/>
 
 As a BS Biology student in my senior year, I'm gaining new experience in using R & RStudio for statistics and applying that knowledge to biology. In maintaining two repositories for my courses, I created a landing page to help display my work. 
-I have repositories for each of my courses here on GitHub: [Intro to Bioinformatics] and [Statistical Learning & Classification](https://vchloros.github.io/MAT434/1stDoc.html)
+I have examples of the work I've done for each of my courses here on GitHub: [Intro to Bioinformatics](https://vchloros.github.io/BIO422/PalmerPenguins_Initial.html) and [Statistical Learning & Classification](https://vchloros.github.io/MAT434/1stDoc.html).
 
 <br/>
 
