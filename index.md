@@ -1,4 +1,4 @@
-<img src="SiteFiles/VinZoom.jpg" align="left" width=150>&nbsp; &nbsp; Biology Student<br/>
+<img src="SiteFiles/Pictures/VinZoom.jpg" align="left" width=150>&nbsp; &nbsp; Biology Student<br/>
 &nbsp; &nbsp; Southern New Hampshire University <br/>
 &nbsp; &nbsp; email: vinny.chloros [at] snhu [dot] edu<br/>
 &nbsp; &nbsp; [Resume](https://vchloros.github.io/SiteFiles/Resume/VChloros_ResumeV9Lab.pdf)
