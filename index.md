@@ -1,4 +1,4 @@
-<img src="SiteFiles/Pictures/VinZoom.jpg" align="left" width=150>&nbsp; &nbsp; Biology Student<br/>
+<img src="SiteFiles/Pictures/VinZoom.jpg" align="left" width=150>&nbsp; &nbsp; B.S. Biology 2025<br/>
 &nbsp; &nbsp; Southern New Hampshire University <br/>
 &nbsp; &nbsp; email: vinny.chloros [at] snhu [dot] edu<br/>
 &nbsp; &nbsp; [Resume](https://vchloros.github.io/SiteFiles/Resume/VChloros_ResumeV9Lab.pdf)
@@ -12,8 +12,8 @@
 
 <br/>
 
-As a BS Biology student in my senior year, I'm gaining new experience in using R & RStudio for statistics and applying that knowledge to biology. In maintaining two repositories for my courses, I created a landing page to help display my work. 
-I have examples of the work I've done for each of my courses here on GitHub: [Intro to Bioinformatics](https://vchloros.github.io/BIO422/PalmerPenguins_Initial.html) and [Statistical Learning & Classification](https://vchloros.github.io/MAT434/1stDoc.html).
+As an undergraduate Biology student in my senior year, I'm gaining new experience in using R & RStudio for statistics and applying that knowledge to biology. In maintaining two repositories for my courses, I created a landing page to help display my work. 
+I have examples of the work I've done for each of my courses here on GitHub: [Intro to Bioinformatics](https://vchloros.github.io/BIO422/BirdBaths.html) and [Statistical Learning & Classification](https://vchloros.github.io/MAT434/CA_VC.html).
 
 <br/>
 
