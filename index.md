@@ -10,10 +10,10 @@
 
 ## About Me
 
-<br/>
-
 As an undergraduate Biology student in my senior year, I'm gaining new experience in using R & RStudio for statistics and applying that knowledge to biology. In maintaining two repositories for my courses, I created a landing page to help display my work. 
 I have examples of the work I've done for each of my courses here on GitHub: [Intro to Bioinformatics](https://vchloros.github.io/BIO422/BirdBaths.html) and [Statistical Learning & Classification](https://vchloros.github.io/MAT434/CA_VC.html).
+
+Currently, I work as a lab assistant at SNHU for Microbiology, General Biology, and General Chemistry Labs. My main responsibilities are preparing materials (bacteria culutres, solutions, samples, etc.) for students as well as occassionally working in-class to guide them through complex procedures.
 
 <br/>
 
