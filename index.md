@@ -13,7 +13,7 @@
 As an undergraduate Biology student in my senior year, I'm gaining new experience in using R & RStudio for statistics and applying that knowledge to biology. In maintaining two repositories for my courses, I created a landing page to help display my work. 
 I have examples of the work I've done for each of my courses here on GitHub: [Intro to Bioinformatics](https://vchloros.github.io/BIO422/BirdBaths.html) and [Statistical Learning & Classification](https://vchloros.github.io/MAT434/CA_VC.html).
 
-Currently, I work as a lab assistant at SNHU for Microbiology, General Biology, and General Chemistry Labs. My main responsibilities are preparing materials (bacteria culutres, solutions, samples, etc.) for students as well as occassionally working in-class to guide them through complex procedures.
+Currently, I work as a lab assistant at SNHU for Microbiology, General Biology, and General Chemistry Labs. My main responsibilities are preparing materials (bacteria culutres, solutions, samples, etc.) for students as well as occassionally working in-class to guide them through experimental procedures.
 
 <br/>
 
@@ -34,6 +34,8 @@ As a REU student at Iowa University, I worked under the Neiman Lab for 10 weeks 
 [UIowa REU 2024 Landing Page](https://www.thinglink.com/scene/1877395414039134694) <br/>
 
 ### Cryptozoology Meets Ecology: A Look into the Megalodon
+
+In my sophomore year, I participated in a course devoted to building critical thinking and analytical skills by looking into popular conspiracy theories and collecting evidence to evaluate their validity. Wanting to apply this elective class to my major and interests, I decided to confront the popular rumor that the Megalodon (*Otodus megalodon*) is still alive and lurking in abyssal waters. Over the course of a semester, I watched and read media from skeptics of its extinction to learn their common arguments, poured over literature on the species and extant relatives, and had the chance to reached out to two expert studying the creature for extra thoughts on their findings. My final conclusions used a combination of physiological and ecological knowledge to assert that the Megalodon went extinct in the early Cretaceous period, as the scientific field almost ubiquitously agrees upon, and would not survive in the conditions described by skeptics. 
 
 [Megalodon Research Paper](https://vchloros.github.io/SiteFiles/Projects/Megalodon_PaperPDF.pdf) <br/>
 [Megalodon UGRD Presentation](https://vchloros.github.io/SiteFiles/Projects/Megalodon_ResearchPresentation.pdf) 
